@@ -18,3 +18,7 @@
 # 安装
 
 直接拖拽`crx`安装即可。
+
+# 博客
+
+[CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
