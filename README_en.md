@@ -6,7 +6,7 @@ One second to read GitHub code with VS Code.
 
 Screenshot:
 
-[](./image/image.png)
+![](./image/image.png)
 
 Supported browser:
 
