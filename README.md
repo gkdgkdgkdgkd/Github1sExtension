@@ -1,4 +1,4 @@
-中文 | [En](https://github.com/2293736867/Github1sExtension/blob/main/README_en.md)
+中文 | [En](https://github.com/2293736867/Github1sExtension/blob/FireFox/README_en.md)
 
 # Github1s扩展
 
@@ -10,11 +10,13 @@
 
 支持浏览器：
 
-- `Chrome`
-- `Chromium`
-- `Brave`
-- `FireFox`（请切换到`FireFox`分支）
+- `Chrome`/`Chromium`/`Brave`（请切换到`main`分支）
+- `FireFox`
 
 # 安装
 
-直接拖拽`crx`安装即可。
+- `clone`仓库
+- 打开火狐
+- 输入`about:debugging#/runtime/this-firefox`
+- 点击`Load Temporary Add-on`
+- 选择`clone`后的`manifest.json`
