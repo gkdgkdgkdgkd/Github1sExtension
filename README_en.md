@@ -1,4 +1,4 @@
-[中文](https://github.com/2293736867/Github1sExtension/blob/main/README.md) | En
+[中文](https://github.com/2293736867/Github1sExtension/blob/FireFox/README.md) | En
 
 # Github1sExtension
 
@@ -10,11 +10,17 @@ Screenshot:
 
 Supported browser:
 
-- `Chrome`
-- `Chromium`
-- `Brave`
-- `FireFox`(Please switch branch `FireFox`)
+- `Chrome`/`Chromium`/`Brave`（Please switch branch `main`）
+- `FireFox`
 
 # Install
 
-Drag the `crx` file to the browser.
+- `clone` this repository
+- Open FireFox
+- Enter `about:debugging#/runtime/this-firefox` in the address bar
+- Click `Load Temporary Add-on`
+- Choose `manifest.json` in this repository
+
+# Blog
+
+[CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
