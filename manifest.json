@@ -2,12 +2,12 @@
     "name": "Github1s",
     "description": "One second to read GitHub code with VS Code.(https://github.com/conwnet/github1s)",
     "version": "1.0",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "content_scripts": [{
         "matches": ["https://github.com/*/*"],
         "js": ["/js/icon.js","/js/init.js"]
     }],
-    "action": {
+    "browser_action": {
         "default_icon": {
             "16": "/icons/logo16.png",
             "32": "/icons/logo32.png",
