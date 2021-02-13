@@ -20,3 +20,7 @@
 - 输入`about:debugging#/runtime/this-firefox`
 - 点击`Load Temporary Add-on`
 - 选择`clone`后的`manifest.json`
+
+# 博客
+
+[CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
