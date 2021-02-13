@@ -1,4 +1,4 @@
-中文 | [En]()
+中文 | [En](https://github.com/2293736867/Github1sExtension/blob/main/README_en.md)
 
 # Github1s扩展
 
