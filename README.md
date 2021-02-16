@@ -23,6 +23,6 @@
 
 [CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
 
-# 协议
+# 开源许可证
 
 MIT
