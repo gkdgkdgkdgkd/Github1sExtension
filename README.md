@@ -22,3 +22,7 @@
 # 博客
 
 [CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+
+# 协议
+
+MIT
