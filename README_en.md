@@ -24,3 +24,7 @@ Supported browser:
 # Blog
 
 [CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+
+# License
+
+MIT
