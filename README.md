@@ -24,3 +24,7 @@
 # 博客
 
 [CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+
+# 开源许可证
+
+MIT
