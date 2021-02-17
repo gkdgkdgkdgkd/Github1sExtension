@@ -17,11 +17,15 @@
 
 # 安装
 
-直接拖拽`crx`安装即可。
+下载Relase页面的`Chrome.crx`安装即可。
 
 # 博客
 
 [CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+
+# 关于上线商店
+
+有上线商店的计划，由于作者本人的原因可能不会上线那么快。
 
 # 开源许可证
 
