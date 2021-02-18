@@ -17,7 +17,13 @@ Supported browser:
 
 # Install
 
-Download `Chrome.crx` in Release page and Drag the `crx` file to the browser.
+~~Download `Chrome.crx` in Release page and Drag the `crx` file to the browser.~~
+
+- `clone`
+- Open your browser
+- Open the extension management page
+- Choose `Load unpacked`
+- Choose `src` folder
 
 # Blog
 
