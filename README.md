@@ -17,7 +17,12 @@
 
 # 安装
 
-下载Relase页面的`Chrome.crx`安装即可。
+~~下载Relase页面的`Chrome.crx`安装即可。（经测试出现问题，待修复）~~
+
+- `clone`仓库
+- 打开浏览器扩展管理界面
+- 选择`load unpacked`
+- 选择`src`文件夹
 
 # 博客
 
