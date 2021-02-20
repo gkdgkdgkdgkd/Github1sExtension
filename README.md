@@ -10,23 +10,22 @@
 
 支持浏览器：
 
-- `Chrome`
-- `Chromium`
-- `Brave`
+- `Chrome`/`Chromium`/`Brave`
 - `FireFox`（请切换到`FireFox`分支）
 
 # 安装
 
-~~下载Relase页面的`Chrome.crx`安装即可。（经测试出现问题，待修复）~~
+下载Relase页面的`Chrome.crx`安装即可（`Brave`由于安全限制原因请下载`Release`中的`Extension.zip`安装）。
 
-- `clone`仓库
-- 打开浏览器扩展管理界面
-- 选择`load unpacked`
-- 选择`src`文件夹
+# 使用
 
-# 博客
+浏览器中的扩展图标直接点击或者右键菜单即可。
 
-[CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+命令行使用如下（由于笔者目前还不会发布到软件包仓库，请见谅）：
+
+- 复制`shell/g1s.sh`到一个固定位置
+- 添加别名`alias g1s="sh yourfolder/g1s.sh"`
+- 
 
 # 关于上线商店
 
@@ -35,3 +34,16 @@
 # 开源许可证
 
 MIT
+
+# 更新日志
+
+# 2/20/2021
+
+- V1.1
+- 添加右键菜单以及基本的`CLI`
+- 更新图标
+
+# 2/13/2021
+
+- 项目正式启动，V1.0 版本
+- 扩展基础功能
