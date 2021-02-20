@@ -19,7 +19,7 @@ Supported browser:
 
 Download `Chrome.crx` in `Release` page and Drag the `crx` file to the browser.
 
-(`Brave` users please download `Extension.zip` in `Release` page because of some unknown safe reasons)
+(`Brave` users please download and extract `Chrome.zip` in `Release` page because of some unknown safe reasons, installed by `Load unpacked` in extension management page)
 
 ## 2.2 `CLI`
 
