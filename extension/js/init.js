@@ -1,7 +1,5 @@
 let list = document.getElementsByClassName("pagehead-actions")
 
-console.log(chrome.contextMenus)
-
 if (list.length > 0) {
     list = list[0]
     const li = document.createElement('li')
@@ -13,7 +11,7 @@ if (list.length > 0) {
     a.style.height = '28px'
     a.style.paddingBottom = '0'
     a.style.paddingTop = '2px'
-    a.innerHTML = base64Logo
+    a.innerHTML = base64Icon
     a.setAttribute('aria-label','Open with VSCode')
 
     li.append(a)
