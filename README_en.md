@@ -1,6 +1,6 @@
 [中文](https://github.com/2293736867/Github1sExtension/blob/FireFox/README.md) | En
 
-# Github1sExtension
+# 1 Github1sExtension
 
 One second to read GitHub code with VS Code.
 
@@ -13,23 +13,48 @@ Supported browser:
 - `Chrome`/`Chromium`/`Brave`（Please switch branch `main`）
 - `FireFox`
 
-# Install
+# 2 Install
 
-- Download the latest `FireFox.zip` in release page
+## 2.1 Extension
+
+- Download the latest `Extension.zip` in release page
 - Extract
 - Open FireFox
 - Enter `about:debugging#/runtime/this-firefox` in the address bar
 - Click `Load Temporary Add-on`
 - Choose `manifest.json` after extracting
 
-# Blog
+## 2.2 `CLI`
 
-[CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+Download `g1s.sh` in `Release` page and place it in a fiexd position, and add an alias:
 
-# Distribute
+```bash
+alias g1s='sh xxxxx/g1s.sh'
+```
+After that you can use `g1s` command.
+
+There are two ways to use it right now:
+
+- `cd` local `git` repository and input `g1s`
+- Enter `g1s username repository` directly, for example open this repository by entering `g1s 2293736867 Github1sExtension` 
+
+# 3 Distribute
 
 There is a plan for distributing it, but it may take some time due to the author's own reason, 
 
-# License
+# 4 License
 
 MIT
+
+# 5 Log
+
+## 2/21/2021
+
+- V1.1
+- Context menus and basic `CLI`
+- Change icon
+
+## 2/13/2021
+
+- V1.0
+- Basic function
