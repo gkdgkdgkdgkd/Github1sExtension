@@ -1,5 +1,7 @@
 let list = document.getElementsByClassName("pagehead-actions")
 
+console.log(chrome.contextMenus)
+
 if (list.length > 0) {
     list = list[0]
     const li = document.createElement('li')
