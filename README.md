@@ -17,7 +17,7 @@
 
 ## 2.1 扩展安装
 
-下载`Relase`页面的`Chrome.crx`安装即可（`Brave`由于安全限制原因请下载`Release`中的`Extension.zip`安装，并在插件管理界面选择`Load unpacked`安装）。
+下载`Relase`页面的`Chrome.crx`安装即可（`Brave`由于安全限制原因请下载`Release`中的`Chrome.zip`并解压，并在插件管理界面选择`Load unpacked`安装）。
 
 ## 2.2 `CLI`安装
 
