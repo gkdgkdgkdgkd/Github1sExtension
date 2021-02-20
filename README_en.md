@@ -1,6 +1,6 @@
 [中文](https://github.com/2293736867/Github1sExtension/blob/main/README.md) | En
 
-# Github1sExtension
+# 1 Github1sExtension
 
 One second to read GitHub code with VS Code.
 
@@ -10,29 +10,48 @@ Screenshot:
 
 Supported browser:
 
-- `Chrome`
-- `Chromium`
-- `Brave`
+- `Chrome`/`Chromium`/`Brave`
 - `FireFox`(Please switch branch `FireFox`)
 
-# Install
+# 2 Install
 
-~~Download `Chrome.crx` in Release page and Drag the `crx` file to the browser.~~
+## 2.1 Extension
 
-- `clone`
-- Open your browser
-- Open the extension management page
-- Choose `Load unpacked`
-- Choose `src` folder
+Download `Chrome.crx` in `Release` page and Drag the `crx` file to the browser.
 
-# Blog
+(`Brave` users please download `Extension.zip` in `Release` page because of some unknown safe reasons)
 
-[CSDN](https://blog.csdn.net/qq_27525611/article/details/113799360)
+## 2.2 `CLI`
 
-# Distribute
+Download `g1s.sh` in `Release` page and place it in a fiexd position, and add an alias:
 
-There is a plan for distributing it, but it may take some time due to the author's own reason, 
+```bash
+alias g1s='sh xxxxx/g1s.sh'
+```
+After that you can use `g1s` command.
 
-# License
+There are two ways to use it right now:
+
+- `cd` local `git` repository and input `g1s`
+- Enter `g1s username repository` directly, for example open this repository by entering `g1s 2293736867 Github1sExtension` 
+
+# 3 Distribute
+
+There is a plan for distributing it, but it may take some time due to the author's own reason.
+
+# 4 License
 
 MIT
+
+# 5 Log
+
+## 2/21/2021
+
+- V1.1
+- Context menus and basic `CLI`
+- Change icon
+
+## 2/13/2021
+
+- V1.0
+- Basic function
