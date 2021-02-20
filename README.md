@@ -6,7 +6,9 @@
 
 效果：
 
-![](./image/image.png)
+![](./image/1.png)
+
+![](./image/2.png)
 
 支持浏览器：
 
